@@ -2,7 +2,7 @@
 ## Visualization of Stability and Phase Transitions in Bose–Einstein Condensate-Inspired Skyrme Models
 
 ### Task
-Aim is to learn how to construct (numerically) visual representations and analyze the stability and phase transitions in a Skyrme-type model based on Bose-Einstein condensates (BECs), also known as the BEC Skyrme model. These visualizations are critical in deciphering the model's physical attributes and transitions, resulting in a better understanding of the topological soliton dynamics. This is also associated with the entropy of a black hole.
+Aim is to learn how to construct (numerically) visual representations and analyze the stability and phase transitions in a Skyrme-type model based on Bose-Einstein condensates (BECs), also known as the BEC Skyrme model. These explorations are critical in deciphering the understanding of soliton dynamics in dense quantum systems like Neutron stars, which may also shed light on the quantum aspects of b\Black Hole entropy through analogous topological features.
 
 Supervisor: [**Dr. M Arshad Momen**](http://iub.ac.bd/academics/departments/ps/faculty-and-staff/arshad) | Visiting Scientist, CERN | Theoretical Physicist & Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
