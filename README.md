@@ -10,3 +10,5 @@ Timeline: December 2024 - (ongoing)
 
 
 [![image](https://github.com/user-attachments/assets/5f87fb2d-b8c9-45ee-b7e8-8f313a4364a0)](https://github.com/mdfardinxyz/BEC-Skyrme-model/blob/main/AM-BEC-PhysRevD.91.045027%20(reference%20paper).pdf)
+
+(click the image for details)
